@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568125915 source:c:\users\qd\documents\baitapt2\main.cpp
+	<iostream>
+	<chrono>
+
